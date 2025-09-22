@@ -1,18 +1,21 @@
-dronekumarsingh
-# Hi, I'm Drone 👋
+Hi, I'm Drone Kumar Singh 👋
+About Me
+Final-year B.Tech student (CSE, KL University) passionate about building scalable apps and mastering full-stack engineering. Experienced in web app development, API design, and eager to explore AI-driven technologies for real-world impact.
 
-## About Me
-B.Tech CSE Student | Aspiring SDE | Web & Data Enthusiast  
+Skills
+Languages: Java, JavaScript, Python, C, HTML, CSS, SQL
 
-## Skills
-- **Languages:** Java, Python, JavaScript, TypeScript  
-- **Frameworks:** React, Spring Boot, Next.js  
-- **Tools:** Git, VS Code, PostgreSQL, Docker  
-- **Other:** Recharts, Lucide Icons, Tailwind CSS  
+Frameworks: React, Node.js, Spring Boot, .NET
 
-## Projects
-- [IPO Web App](https://github.com/dronekumarsingh/ipo-web-app) – React + Spring Boot IPO tracker  
-- [Super Bowl Analysis](https://github.com/dronekumarsingh/superbowl-analysis) – Data visualization & analytics  
+Tools/Technologies: Git, VS Code, IntelliJ, PostgreSQL, MongoDB, Docker
 
-## GitHub Stats
-![Drone's GitHub stats](https://github-readme-stats.vercel.app/api?username=dronekumarsingh&show_icons=true&theme=radical)
+Soft Skills: Leadership, Team Management, Creativity, Time Management
+
+Experience
+Software Development Engineer Intern - Bluestocks Fintech (Jun–Jul 2025)
+
+Developed core modules for an IPO web portal, RESTful APIs with Django, and admin dashboards for resource management.
+
+Led API security, PDF management, and version control using Git & GitHub.
+
+Ensured data protection via best security practices and thorough API testing.
