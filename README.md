@@ -85,7 +85,7 @@
 
 ## 🌱 Experience
 
-- **Bluestock Fintech** – Software Development Engineer Intern (IPO Web Application)  
+- **Bluestock Fintech** – Software Development Engineer Intern   
 - **Oasis Infobyte** – Web Developer Intern  
 
 ---
@@ -93,8 +93,7 @@
 ## 📌 Projects (Highlights)
 - **IPO Web Application** – Full-stack IPO management system (React + PostgreSQL + REST APIs).  
 - **Gemini Clone** – Generative AI chatbot built using React + Gemini API.  
-- **Super Bowl Analysis (Capstone)** – Data visualization & analysis of Super Bowl trends & ads.  
-- **Warehouse Product Manager** – Spring Boot + JPA CRUD web app.  
+- **Super Bowl Analysis (Capstone)** – Data visualization & analysis of Super Bowl trends & ads.    
 
 ---
 
@@ -107,7 +106,7 @@
 
 ## 🎓 Education
 
-- **Koneru Lakshmaiah University (KLU)** – B.Tech in Computer Science Engineering (2021–2025)  
+- **Koneru Lakshmaiah University (KLU)** – B.Tech in Computer Science Engineering (2022–2026)  
 
 ---
 
